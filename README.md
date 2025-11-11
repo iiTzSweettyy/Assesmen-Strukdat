@@ -1,4 +1,4 @@
-# Asesmen Akhir Semester - Struktur Data
+# Assesmen - Struktur Data
 
 Identitas Pengumpul
 
