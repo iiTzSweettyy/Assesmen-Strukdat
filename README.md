@@ -388,7 +388,8 @@ Program menggunakan Doubly Linked List, di mana setiap elemen (elmlist) memiliki
 Alur Logika Utama: 
 1.main(): Fungsi main pertama-tama membuat sebuah list kosong bernama timeline menggunakan createNewList(). 
 2. Penambahan Data (Soal 5.a): Beberapa data infotype postingan dibuat. Setiap data kemudian dialokasikan sebagai elemen baru menggunakan allocate() dan disisipkan ke dalam timeline menggunakan insertSortedByID(). Fungsi ini memastikan list selalu terurut menaik berdasarkan id_post. 
-3. Menampilkan Data: printList() dipanggil untuk menampilkan seluruh isi timeline yang sudah terurut. printByUsername() (Soal 5.b) dipanggil untuk mencari dan menampilkan semua postingan dari username tertentu. printMostPopular() (Soal 5.c) dipanggil untuk mencari dan menampilkan satu postingan dengan jumlah likes terbanyak. 4. Operasi Hapus: Program juga mendemonstrasikan fungsi deleteLast() dan deleteAfter() untuk menunjukkan manipulasi data pada list.
+3. Menampilkan Data: printList() dipanggil untuk menampilkan seluruh isi timeline yang sudah terurut. printByUsername() (Soal 5.b) dipanggil untuk mencari dan menampilkan semua postingan dari username tertentu. printMostPopular() (Soal 5.c) dipanggil untuk mencari dan menampilkan satu postingan dengan jumlah likes terbanyak.
+4. Operasi Hapus: Program juga mendemonstrasikan fungsi deleteLast() dan deleteAfter() untuk menunjukkan manipulasi data pada list.
 
 Penjelasan Fungsi dan Prosedur:
 
